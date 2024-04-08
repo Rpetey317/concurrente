@@ -1,0 +1,6 @@
+[submodule "TPS/tp1"]
+	path = TPS/tp1
+	url = https://github.com/concurrentes-fiuba/2024-1c-tp1-Rpetey317
+[submodule "TPs/tp1"]
+	path = TPs/tp1
+	url = https://github.com/concurrentes-fiuba/2024-1c-tp1-Rpetey317
